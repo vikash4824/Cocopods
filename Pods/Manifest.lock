@@ -1,0 +1,28 @@
+PODS:
+  - ButtonAppearance (0.1.1)
+  - iOSDropDown (0.3.4)
+  - IQKeyboardManagerSwift (6.5.6)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - ButtonAppearance
+  - iOSDropDown
+  - IQKeyboardManagerSwift
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - ButtonAppearance
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  ButtonAppearance: 36534cf98eedffd5b17a2d73ab4087f598fc9442
+  iOSDropDown: c10a761f9a00c3f1cc9d3bce43ae504628e2f692
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 1a0eb105ad81ff4c481d17232e7435211f608089
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,5 @@
+${PODS_ROOT}/Target Support Files/Pods-Cocopods-CocopodsUITests/Pods-Cocopods-CocopodsUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/ButtonAppearance/ButtonAppearance.framework
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/TextFieldEffects/TextFieldEffects.framework
+${BUILT_PRODUCTS_DIR}/iOSDropDown/iOSDropDown.framework
